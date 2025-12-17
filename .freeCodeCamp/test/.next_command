@@ -121,3 +121,5 @@ git add .
 git commit -m "Init commit"
 git push
 git push -u origin master
+git status
+git add .
